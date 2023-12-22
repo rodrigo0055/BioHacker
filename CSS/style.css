@@ -173,6 +173,10 @@ header{
     font-family: var(--Playfair);
 }
 
+ul {
+    list-style-type: none;
+  }
+
 
 /* blog */
 .blog{
