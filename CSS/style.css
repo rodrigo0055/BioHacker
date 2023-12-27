@@ -26,6 +26,8 @@ img{
     max-width: 1320px;
     margin: 0 auto;
     padding: 10px 1.2rem;
+    text-align: center;
+
 }
 
 /* header */
@@ -260,6 +262,7 @@ ul {
 /* about */
 .about{
     padding: 4.5rem 0;
+    align-content: center;
 }
 .about-text{
     margin: 2rem 0;
